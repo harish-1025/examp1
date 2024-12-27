@@ -3,3 +3,8 @@ create a structure of project
 com.cts.controller
 com.cts.model
 com.cts.service
+EmployeeContoller class
+EmployeeModel
+EmployeeRepository
+EmployeeService
+
