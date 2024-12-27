@@ -13,7 +13,10 @@ trainer payroll
 using mysql database
 mysql DBconnection
 mysql config
-
+student information
+student model
+student DAO
+student repository
 
 
 
